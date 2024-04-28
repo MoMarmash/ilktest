@@ -1,1 +1,2 @@
 library(tinytex)
+library(package)
